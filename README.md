@@ -6,8 +6,8 @@ This is another attempt at React by creating a simple travel list application us
 
 # What I Learned
 
-Building a form
-Using controlled elements
+1.Building a form
+2.Using controlled elements within a form
 
 # Sample
 
