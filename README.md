@@ -11,4 +11,4 @@ Using controlled elements
 
 # Sample
 
-[!picture][/screenshots/travel.png]
+![picture][/screenshots/travel.png]
